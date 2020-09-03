@@ -1,0 +1,28 @@
+.recipes {
+    font-size: 18px;
+    max-width: 200px;
+    padding: 10px;
+}
+
+.all {
+    color: white;
+    background-color: rgb(73, 73, 73);
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+Col {
+    background-color: rgb(211, 211, 211);
+}
+.letterButton {
+    color: rgb(0, 0, 0);
+    background-color: rgb(231, 231, 231);
+    border: none;
+    border-radius: 5px;
+    width: 30px;
+}
+
+.click {
+    color: rgb(141, 141, 141);
+    font-style: italic;
+}

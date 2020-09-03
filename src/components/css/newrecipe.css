@@ -1,0 +1,16 @@
+.titleInput {
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.ingredients {
+    font-weight: 100;
+    color: rgb(61, 61, 61);
+    font-size: 20px;  
+}
+
+.deleteButton {
+    border: none;
+    background-color: rgb(231, 229, 229);
+    border-radius: 4px;
+}

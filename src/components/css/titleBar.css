@@ -1,0 +1,27 @@
+.here {
+    color: black;
+    text-decoration: underline;
+}
+
+.here:hover {
+    color: gray
+}
+
+.notHere {
+    color: rgb(105, 105, 105);
+}
+
+.notHere:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.login {
+    border: none;
+    background-color: white;
+    color: rgb(105, 105, 105);
+}
+
+.login:hover {
+    color: black;
+}

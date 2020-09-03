@@ -1,0 +1,26 @@
+.recipeButtons {
+    background-color: white;
+    color: rgb(68, 68, 68);
+    border: none;
+    font-size: 20px;
+}
+
+.recipeButtons:hover {
+    color: black;
+}
+
+.smallHeaders {
+    font-style: italic;
+    color:  rgb(124, 124, 124);
+    font-size: 14px
+}
+
+.amounts {
+    font-size: 14px;
+    color: rgb(143, 143, 143);
+}
+
+.deleteButtons {
+    border: none;
+    border-radius: 8px;
+}
